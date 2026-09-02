@@ -1,8 +1,8 @@
 # CVM++, Coal-Virtual-Machine++, latest version 2.1.0 🖥️
 
-CVM++ is a replacement of Coalvm-CLI as more stable, stable and more logical version of it. CVM++ is stable in this version splitted into multiple components so it was easier for us to debug and update it much faster, but we do not guaranteed this software / program bug-free. CVM++ had a similar feature of Coalvm-CLI with much more stricter rules and readable syntax.
+CVM++ is a replacement of Coalvm-CLI as more stable, and more logical version of it. CVM++ is stable in this version, splitted into multiple components so it was easier for us to debug and update it much faster, but we do not guarantee this software / program bug-free. CVM++ had a similar feature of Coalvm-CLI with much more stricter rules and readable syntax.
 
-CVM++ was still in a heavy development as it was stated to be in alpha state, and we do not guaranteed this software / program to be bug-free or free from bug, use CVM++ carefully. We're not responsible for any system or internal damages as it was stated under MIT License.
+CVM++ was still in a heavy development as it was stated to be in alpha state, and we do not guarantee this software / program to be bug-free or free from bug, use CVM++ carefully. We're not responsible for any system or internal damages as it was stated under MIT License.
 
 ## CVM++, default commands ⌨️
 
