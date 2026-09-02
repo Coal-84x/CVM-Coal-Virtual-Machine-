@@ -17,7 +17,7 @@ namespace ansi_sequence_color
           "\033[36m"};
   static constexpr std::array<std::string_view, 7> boldcolor =
       {
-          "\033[0m",
+          "\033[1;37m",
           "\033[1;31m",
           "\033[1;32m",
           "\033[1;33m",
