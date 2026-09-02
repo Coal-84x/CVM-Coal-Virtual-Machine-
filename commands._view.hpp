@@ -4,8 +4,10 @@
 
 namespace default_commands 
 {
-  constexpr inline std::array<std::string_view, 1> function_caller = 
+  constexpr inline std::array<std::string_view, 3> function_caller = 
   {
-    "exit;"
+    "exit;",
+    "comments;",
+    "write;"
   };
 }
