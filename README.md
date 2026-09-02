@@ -4,7 +4,7 @@ CVM++ is a replacement of Coalvm-CLI as more stable, stable and more logical ver
 
 CVM++ was still in a heavy development as it was stated to be in alpha state, and we do not guaranteed this software / program to be bug-free or free from bug, use CVM++ carefully. We're not responsible for any system or internal damages as it was stated under MIT License.
 
-## CVM++, default commands
+## CVM++, default commands ⌨️
 
 ### exit ;
 allows user exiting console / program safely and it was extremely recommended to use this whenever you want to exit to prevent a memory leak. 
