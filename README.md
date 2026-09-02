@@ -13,4 +13,4 @@ allows user to insert comments on a input, it was very optional but can be handy
 ### write;
 allows user to output a string on the console. It was very important for debug purpose and full of functionality once fully implemented(alpha feature)
 
-## ~ Built with love, by Coalvm-84x ❤️
+## ~ Made with love and passion, by Coalvm-84x ❤️
