@@ -1,6 +1,14 @@
-# CVM++, Coal-Virtual-Machine++, latest version 2.0.0
-CVM++ is a replacement of Coalvm-CLI as more improvised, stable and more logical version of it. CVM++ were fully
-stable in this version with modular files.
+# CVM++, Coal-Virtual-Machine++, latest version 2.2.0 🖥️
+
+CVM++ is a replacement of Coalvm-CLI as more improvised, stable and more logical version of it. CVM++ were fully stable in this version with modular files via header files. CVM++ had a similar feature of Coalvm-CLI with much more stricter rules and readable syntax.
+
 ## CVM++, default commands
-### exit;
-exiting programs
+
+### exit ;
+allows user exiting console / program safely and it was extremely recommended to prevent memory leaks. 
+### comment;
+allows user to insert comments on a input, it was very optional but can be handy later when the feature is fully implemented. (alpha feature)
+### write;
+allows user to output a string on the console. It was very important for debug purpose and full of functionality once fully implemented(alpha feature)
+
+## ~ Built with love, by Coalvm-84x ❤️
